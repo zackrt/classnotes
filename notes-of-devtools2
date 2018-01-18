@@ -1,0 +1,10 @@
+notes from the devtools: network tab 
+netwrok tab is Performance / Load time 
+network security
+autogravity was using from http, https for, was an analytics vendor loading 3rd party http
+faster debugging
+figure out Memory leak
+waiting TTFB is server-side
+content download is client-side
+bottlenecks scripts loading unsync, 
+optimize the images 
